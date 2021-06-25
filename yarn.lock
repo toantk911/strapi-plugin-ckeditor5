@@ -9,10 +9,10 @@
   dependencies:
     prop-types "^15.7.2"
 
-"@toantk911/ckeditor5-build-strapi-wysiwyg@1.8.3":
-  version "1.8.3"
-  resolved "https://registry.yarnpkg.com/@toantk911/ckeditor5-build-strapi-wysiwyg/-/ckeditor5-build-strapi-wysiwyg-1.8.3.tgz#459f637c316f32a2ef1afb4ba2e8601376108f91"
-  integrity sha512-N15CGuWK2zDu70QM/HsZbRI608pGkHJ//2UU/FgwMoxoIVzRWe5l9nBSQi/sTHRw7+JnDaiccRxAW/nuUpKgMQ==
+"@toantk911/ckeditor5-build-strapi-wysiwyg@1.8.4":
+  version "1.8.4"
+  resolved "https://registry.yarnpkg.com/@toantk911/ckeditor5-build-strapi-wysiwyg/-/ckeditor5-build-strapi-wysiwyg-1.8.4.tgz#4ea50b7f82eb6db4af7cadb6daa2ead6ae550a87"
+  integrity sha512-LQghwRMbFQsUU5McIZB27rkvvnl0vSoNMjpqpPrcyqOI5ecUWijoqJCwKACVPo5W55C76KDqsNsedUMfQY+TAg==
 
 "js-tokens@^3.0.0 || ^4.0.0":
   version "4.0.0"
